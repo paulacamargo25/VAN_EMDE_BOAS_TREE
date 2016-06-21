@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466526564 source:/home/paulacv/San Pablo/analisis y diseño de algoritmos/ADA/van_Emde_Boas_trees/main.cpp
+	<iostream>
+	"vEB.h"
+
+1466526314 source:/home/paulacv/San Pablo/analisis y diseño de algoritmos/ADA/van_Emde_Boas_trees/src/vEB.cpp
+	"vEB.h"
+
+1466526225 /home/paulacv/San Pablo/analisis y diseño de algoritmos/ADA/van_Emde_Boas_trees/include/vEB.h
+	"math.h"
+	<vector>
+	<iostream>
+
