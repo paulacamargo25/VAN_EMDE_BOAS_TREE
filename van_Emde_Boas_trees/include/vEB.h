@@ -20,9 +20,14 @@ class vEB
         void vEB_Tree_Insert(vEB* V, int x);
         int vEB_Tree_Minimum(vEB* V);
         int vEB_Tree_Maximum(vEB* V);
+        bool vEB_Tree_Member(vEB* V, int x);
+        int vEB_Tree_Successor(vEB* V, int x);
+        int vEB_Tree_Predecessor(vEB* V, int x);
         int high(int x);
         int low(int x);
         int index(int x,int y);
+        void print(vEB* V);
+        void vEB_Tree_Delete(vEB* V,int x);
 
         virtual ~vEB();
     protected:
